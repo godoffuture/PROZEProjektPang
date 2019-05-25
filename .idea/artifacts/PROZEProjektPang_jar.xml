@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PROZEProjektPang:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PROZEProjektPang_jar</output-path>
+    <root id="archive" name="PROZEProjektPang.jar">
+      <element id="module-output" name="PROZEProjektPang" />
+    </root>
+  </artifact>
+</component>
